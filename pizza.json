@@ -1,0 +1,170 @@
+[
+	{
+		"city": "Бобруйск",
+		"addr": "ул. Максима Горького, 6Б",
+		"camera": "https://tv.ivideon.com/camera/100-p6iDRsI1xPEcFanKlhB5HG/196608/?lang=ru ",
+		"uuid": "000D3A262427A94F11E8C161DA9AD0D9"
+	},
+	{
+		"city": "Брест",
+		"addr": "ул. Волгоградская, 28а",
+		"camera": "https://tv.ivideon.com/camera/100-aB46Hsi9Vg5g3B8zPj32xN/0/?lang=ru ",
+		"uuid": "000D3A219740A94E11E8A69F5C2D3F51"
+	},
+	{
+		"city": "Брест",
+		"addr": "ул. Советская, 71",
+		"camera": "https://tv.ivideon.com/camera/100-9BMRIraEcoG4gud5RgAufq/0/?lang=ru ",
+		"uuid": "000D3A219740A95811EB2FEE3CA73495"
+	},
+	{
+		"city": "Витебск",
+		"addr": "ул. Чкалова, 35",
+		"camera": "https://tv.ivideon.com/camera/100-StjoLtUwAjeTDR3VZV9QQb/65536/?lang=ru",
+		"uuid": "0022487F0C21BB2711EB7CB90FEF16A0"
+	},
+	{
+		"city": "Гомель",
+		"addr": "ул. Ефремова, 11",
+		"camera": "https://tv.ivideon.com/camera/100-418gWivphbDjnWC1uMMRNr/0/?lang=ru",
+		"uuid": "000D3A219740A95711EA6CD9F19170C3"
+	},
+	{
+		"city": "Гомель",
+		"addr": "ул. Советская, 2",
+		"camera": "https://tv.ivideon.com/camera/100-eqgRUePSg7ZaHw37UJEFGz/0/?lang=ru",
+		"uuid": "000D3A219740A95811EA99A29B9C31CE"
+	},
+	{
+		"city": "Гомель",
+		"addr": "ул. Богдана Хмельницкого, 80А",
+		"camera": "https://tv.ivideon.com/camera/100-9RbZKAkk33yxiKartLu6bh/0/?lang=ru",
+		"uuid": "000D3A262427A95111EA0F8CAD674ABA"
+	},
+	{
+		"city": "Гродно",
+		"addr": "Космонавтов, 11",
+		"camera": "https://tv.ivideon.com/camera/100-XGJlnQweWhxteQ82PPP1VU/0/?lang=ru",
+		"uuid": "000D3A219740A95711EA53B3849B2ECB"
+	},
+	{
+		"city": "Гродно",
+		"addr": "пр-т Янки Купалы, 82A",
+		"camera": "https://tv.ivideon.com/camera/100-53gRpemPUDP8ROCUi0iDFU/196608/?lang=ru",
+		"uuid": "000D3AA93D2FBB2811EB6237C25BB774"
+	},
+	{
+		"city": "Гродно",
+		"addr": "пр-т Янки Купалы, 87",
+		"camera": "https://tv.ivideon.com/camera/100-PmuPeecJXKKNDwmKCE09va/196608/?lang=ru",
+		"uuid": "0022487F0C21BB2711EB6236A9AFDB98"
+	},
+	{
+		"city": "Жлобин",
+		"addr": "ул. Барташова, 15а",
+		"camera": "https://tv.ivideon.com/camera/100-4hN54zQDbJQEggkIsgZKx8/131072",
+		"uuid": "000D3A219740A95611E946F734973035"
+	},
+	{
+		"city": "Минск",
+		"addr": "Дзержинского, 126",
+		"camera": "https://tv.ivideon.com/camera/100-Oz7f65tjGJ9EiymrWa3HNt/0",
+		"uuid": "000D3A219740A94911E87BA593080B9D"
+	},
+	{
+		"city": "Минск",
+		"addr": "Притыцкого, 28А",
+		"camera": "https://tv.ivideon.com/camera/100-Zqy2a8fNx3gjEoEkA5znSK/0",
+		"uuid": "000D3A262427A94A11E8A638E0F85C1D"
+	},
+	{
+		"city": "Минск",
+		"addr": "Притыцкого, 93",
+		"camera": "https://tv.ivideon.com/camera/100-bnK6j28ukqOMBsHQ6K7udI/0",
+		"uuid": "000D3A262427A94A11E8A63973A5D09C"
+	},
+	{
+		"city": "Минск",
+		"addr": "Романовская Слобода, 8",
+		"camera": "https://tv.ivideon.com/camera/100-fCfmJalsKzBU7Fe64DbxAB/0",
+		"uuid": "000D3A262427A94A11E8A639F069F9E1"
+	},
+	{
+		"city": "Минск",
+		"addr": "Независимости, 179",
+		"camera": "https://tv.ivideon.com/camera/100-01azgk16qFnCaZ0YpgtZyq/0 ",
+		"uuid": "000D3A219740A94E11E8A63A45073055"
+	},
+	{
+		"city": "Минск",
+		"addr": "Петра Мстиславца, 11",
+		"camera": "https://tv.ivideon.com/camera/100-vyqdEyVQR4ofNaERzXrNnL/65536",
+		"uuid": "000D3A262427A94A11E8A63AEDB71A68"
+	},
+	{
+		"city": "Минск",
+		"addr": "Партизанский, 182",
+		"camera": "https://tv.ivideon.com/camera/100-if041waqWvZUsPvmFiufhO/0",
+		"uuid": "000D3A262427A94A11E8A63D19402DB4"
+	},
+	{
+		"city": "Минск",
+		"addr": "Гурского, 56",
+		"camera": "https://tv.ivideon.com/camera/100-IRsnJQU412015putrxqy6z/0",
+		"uuid": "000D3A219740A95311E8E02932CCD3A2"
+	},
+	{
+		"city": "Минск",
+		"addr": "Денисовская, 8",
+		"camera": "https://tv.ivideon.com/camera/100-WT3w9cxYQRUYeOmbmpv5XK/0",
+		"uuid": "000D3A262427A94F11E8E029980612BA"
+	},
+	{
+		"city": "Минск",
+		"addr": "пересечение ул. Мирошниченко и МКАД",
+		"camera": "https://tv.ivideon.com/camera/100-reWZyy5D9pw8zOpDB4bKvN/0 ",
+		"uuid": "000D3A262427A95111E9B9C4C97985A9"
+	},
+	{
+		"city": "Минск",
+		"addr": "Петра Глебки, 5",
+		"camera": "https://tv.ivideon.com/camera/100-ibiLb2ifda4hC8mbB4IeEP/0",
+		"uuid": "000D3A262427A95111E9B9C4C97985AA"
+	},
+	{
+		"city": "Минск",
+		"addr": "Любимова, 17",
+		"camera": "https://tv.ivideon.com/camera/100-TcziAUVLtFb4GQiOlNHYfw/262144",
+		"uuid": "000D3A219740A95611EA03E99ED957D0"
+	},
+	{
+		"city": "Минск",
+		"addr": "Максима Богдановича, 62",
+		"camera": "https://tv.ivideon.com/camera/100-YoBzKFv4EeYmipsADvk39h/131072",
+		"uuid": "000D3A262427A95311EACB2259923E41"
+	},
+	{
+		"city": "Минск",
+		"addr": "Сурганова, 50 к 1",
+		"camera": "https://tv.ivideon.com/camera/100-aKsFDfqisJmmDLocVwfaIH/0",
+		"uuid": "000D3A219740A95811EAE706E7665850"
+	},
+	{
+		"city": "Могилёв",
+		"addr": "пр-т Пушкинский, 41А",
+		"camera": "https://tv.ivideon.com/camera/100-P6ysjIL7jMVUS7rCXLfBfu/0",
+		"uuid": "000D3A262427A95111E9642F2C091ABF"
+	},
+	{
+		"city": "Могилёв",
+		"addr": "Космонавтов, 8",
+		"camera": "https://tv.ivideon.com/camera/100-3DzdHkqFBgwFw9vUrLEOen/0",
+		"uuid": "000D3A219740A95611E9EA77F8E41843"
+	},
+	{
+		"city": "Молодечно",
+		"addr": "ул. Великий Гостинец, 143Б",
+		"camera": "https://tv.ivideon.com/camera/100-kuaTlJm2IsNVOGuIeF0mI7/65536/",
+		"uuid": ""
+	}
+]
